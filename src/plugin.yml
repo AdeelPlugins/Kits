@@ -1,0 +1,13 @@
+name: Kits
+author: Adeel
+version: 1.0
+main: me.adeel.kits.main
+description: A kits plugin for SkyRIDGE
+
+commands:
+    ikit:
+      usage: /<command>
+      description: Opens the ikit kit menu
+    mkeygive:
+      usage: /<command>
+      description: Opens the ikit kit menu
